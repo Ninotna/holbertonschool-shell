@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'Ac' | tr 'ac' 'ZE'
+tr -cd '[:^A[:^c]]' 'Ze'
