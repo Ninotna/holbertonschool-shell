@@ -1,0 +1,12 @@
+TERM_SESSION_ID=w0t0p0:8DCF04C9-8D24-469E-9BDC-D37DB2E82910 
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.SjbdvtzXtT/Listeners LC_TERMINAL_VERSION=3.4.1 COLORFGBG=7;0 
+ITERM_PROFILE=Default XPC_FLAGS=0x0 LANG=fr_FR.UTF-8 
+PWD=/Users/antonin/Holberton/shell-w2/init_files_variables_and_expansions SHELL=/bin/zsh 
+__CFBundleIdentifier=com.googlecode.iterm2 SECURITYSESSIONID=186a3 TERM_PROGRAM_VERSION=3.4.1 
+TERM_PROGRAM=iTerm.app 
+PATH=/Users/antonin/.rbenv/shims:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin 
+LC_TERMINAL=iTerm2 COLORTERM=truecolor COMMAND_MODE=unix2003 TERM=xterm-256color HOME=/Users/antonin 
+TMPDIR=/var/folders/b5/_vs00s3503sd1yl8t60y72kw0000gn/T/ USER=antonin XPC_SERVICE_NAME=0 LOGNAME=antonin 
+LaunchInstanceID=EBAD1401-2FD9-4CD2-A9F1-3F52D07E4FD0 __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x1 
+ITERM_SESSION_ID=w0t0p0:8DCF04C9-8D24-469E-9BDC-D37DB2E82910 SHLVL=1 OLDPWD=/Users/antonin/Holberton/shell-w2 
+RBENV_SHELL=zsh _=/usr/bin/printenv
